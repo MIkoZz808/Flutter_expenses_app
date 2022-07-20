@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: const Text('Expenses Tracker'),
+            title: const Text('expenses tracker'),
           ),
           body: Column(
             // mainAxisAlignment: MainAxisAlignment.center,
